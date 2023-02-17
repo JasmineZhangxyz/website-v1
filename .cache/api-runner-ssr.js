@@ -17,7 +17,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Jasmine Zhang","short_name":"Jasmine Zhang","start_url":"/","background_color":"#171c28","theme_color":"#2f3b54","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"3be8dddd3ea3ac868bc3487e60582fd6"},
+      options: {"plugins":[],"name":"Jasmine Zhang","short_name":"Jasmine Zhang","start_url":"/","background_color":"#171c28","theme_color":"#2f3b54","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"56c02f3b765da93df63336ed5b909dc1"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-offline/gatsby-ssr'),
