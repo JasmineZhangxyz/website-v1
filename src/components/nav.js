@@ -66,8 +66,8 @@ const StyledNav = styled.nav`
 
     a {
       color: var(--orange);
-      width: 80px;
-      height: 80px;
+      width: 42px;
+      height: 42px;
 
       &:hover,
       &:focus {

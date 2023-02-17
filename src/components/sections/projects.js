@@ -263,7 +263,7 @@ const Projects = () => {
   };
 
   return (
-    <StyledProjectsSection id="projects" ref={revealContainer}>
+    <StyledProjectsSection id="experience" ref={revealContainer}>
       <h2 ref={revealTitle}>Experience</h2>
 
       <Link
