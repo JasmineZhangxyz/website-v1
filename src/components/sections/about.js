@@ -95,9 +95,8 @@ const About = () => {
                 <StyledText>
                     <div>
                         <p>
-                            Hi! My name is Jasmine. I'm a software developer with a focus in ML. I've just finished my 3rd 
-                            year at University of Toronto, studying Engineering Science - Machine Intelligence. Currently, 
-                            I'm spending a year at IBM as a software developer co-op intern.
+                            Hi! My name is Xiyue, but I also go by Jasmine. I'm a software developer with a focus in ML. 
+                            Currently, I'm spending a year at IBM as a SWE co-op intern.
                         </p>
 
                         <p>
@@ -132,9 +131,10 @@ const About = () => {
                             I am especially interested in all things Ethical AI related and believe technology should
                             always serve society. I founded the {' '}
                             <a href="https://ethical-principles-in-ai.github.io/">Ethical Principles in AI Team</a>, an 
-                            affiliated club at University of Toronto. As well, I launched an ethical AI hackathon - {' '}
+                            affiliated club at University of Toronto with 100+ members. As well, I launched an ethical AI 
+                            hackathon - {' '}
                             <a href="https://aihacks4good.github.io/">AIHacks4Good</a> - that saw 250+ registrants in its
-                            first year and sponsorhips from {' '}
+                            first year and sponsorships from {' '}
                             <a href="https://mlh.io/seasons/2023/events">Major League Hacking (MLH)</a>.
                         </p>
 

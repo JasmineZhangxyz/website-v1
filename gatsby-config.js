@@ -2,8 +2,8 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Jasmine Zhang',
-    description: 'Jasmine Zhang is a software developer who specializes in ML.',
+    title: 'Xiyue Zhang',
+    description: 'Xiyue (Jasmine) Zhang is a software developer who specializes in ML.',
     siteUrl: 'https://xiyuezhang.gatsbyjs.io/', // No trailing slash allowed!
     image: '/demo.png', // Path to your image you placed in the 'static' folder
   },

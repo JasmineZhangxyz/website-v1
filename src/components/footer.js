@@ -78,6 +78,11 @@ const Footer = () => {
           <div>Built by Xiyue (Jasmine) Zhang</div>
         </a>
       </StyledCredit>
+      <StyledCredit tabindex="-1">
+        <a href="https://github.com/bchiang7/v4">
+          <div>Design by Brittany Chiang</div>
+        </a>
+      </StyledCredit>
     </StyledFooter>
   );
 };
