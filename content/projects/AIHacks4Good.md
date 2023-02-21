@@ -1,7 +1,7 @@
 ---
 date: '2022-10-01'
 title: 'Chair of AIHacks4Good'
-github: ''
+github: 'https://github.com/JasmineZhangxyz/aihacks4good'
 external: 'https://aihacks4good.github.io/'
 tech:
   - Project Management
