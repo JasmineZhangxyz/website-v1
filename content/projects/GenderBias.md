@@ -1,7 +1,7 @@
 ---
 date: '2022-12-06'
 title: 'Reducing Gender Bias in NLP by Modifying the Optimization Objective'
-github: ''
+github: 'https://github.com/JasmineZhangxyz/nlp-optimization-objective'
 external: 'https://drive.google.com/file/d/1bdhKdsve2W62nsK3vCGC_ZQrwNYEpU5c/view?usp=sharing'
 tech:
   - Python

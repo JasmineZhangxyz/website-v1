@@ -1,7 +1,7 @@
 ---
 date: '2021-06-01'
 title: 'Censorship and Machine Learning'
-github: ''
+github: 'https://github.com/JasmineZhangxyz/ewb-ml-censorship'
 external: ''
 tech:
   - Python
