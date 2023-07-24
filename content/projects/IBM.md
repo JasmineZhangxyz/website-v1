@@ -11,4 +11,4 @@ company: 'IBM'
 showInProjects: true
 ---
 
-Added front-end and back-end features to IBM ADDI Service Designer and added automated web testing with Cypress.
+Added front-end features to IBM ADDI Service Designer and added automated web testing with Cypress and Jenkins.

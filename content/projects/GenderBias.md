@@ -11,4 +11,4 @@ company: 'UofT'
 showInProjects: true
 ---
 
-Research project that achieved >8 times more indirect gender debiasing of word embeddings compared to previous published techniques
+Research project that achieved over 8 times more indirect gender debiasing of word embeddings compared to previous published techniques
