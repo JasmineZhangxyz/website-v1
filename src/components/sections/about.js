@@ -139,7 +139,7 @@ const About = () => {
                         </p>
 
                         <p>
-                            Outside of coding, I spend my time practicing musical theatre, muay thai, and pilates.
+                            Outside of coding, I spend my time practicing singing, acting, and pilates.
                         </p>
                     </div>
                 </StyledText>
