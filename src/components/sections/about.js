@@ -82,8 +82,8 @@ const About = () => {
         'C',
         'SQL',
         'React',
+        'Swift',
         'TypeScript',
-        'JavaScript',
         'HTML + CSS',
     ];
 
@@ -96,11 +96,12 @@ const About = () => {
                     <div>
                         <p>
                             Hi! My name is Xiyue, but I also go by Jasmine. I'm a software developer with a focus in ML. 
-                            Currently, I'm spending a year at IBM as a SWE co-op intern.
+                            I’m in my 4th year of Engineering Science - Machine Intelligence, 
+                            returning from a year-long co-op placement at IBM as a SWE intern.
                         </p>
 
                         <p>
-                            I am actively looking for new grad or early career software development opportunities.
+                            I am actively looking for new grad or early career opportunities.
                         </p>
 
                         <p>Here are a few technologies I’ve worked with:</p>

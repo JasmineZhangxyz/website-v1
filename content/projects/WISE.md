@@ -5,7 +5,7 @@ github: ''
 external: ''
 tech:
   - Outreach
-showInProjects: true
+showInProjects: false
 ---
 
 Prepared presentations and represented WISE at events geared towards encouraging female high school students across the Greater Toronto Area to pursue careers in STEM.

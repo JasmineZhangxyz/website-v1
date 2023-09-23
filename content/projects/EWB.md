@@ -5,7 +5,7 @@ github: ''
 external: ''
 tech:
   - Outreach
-showInProjects: true
+showInProjects: false
 ---
 
 Developed, planned, and facilitated hour-long monthly learning sessions for the UofT EWB CEDR portfolio that aimed to raise awareness about various techno-social issues.

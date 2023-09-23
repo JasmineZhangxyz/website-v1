@@ -1,5 +1,5 @@
 ---
-date: '2021-08-01'
+date: '2022-11-01'
 title: 'Founder of Ethical Principles in AI Team'
 github: ''
 external: 'https://ethical-principles-in-ai.github.io/'
@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-Founded and affiliated a new club with University of Toronto, obtaining funding for technical projects for 75+ registered club members and monthly events featuring guest speakers
+Founded and affiliated a new club with University of Toronto, obtaining funding for technical projects for 75+ registered club members and monthly events featuring guest speakers.
