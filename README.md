@@ -5,7 +5,7 @@
   Personal Website
 </h1>
 <p align="center">
-  The first iteration of <a href="https://xiyuezhang.gatsbyjs.io/" target="_blank">https://xiyuezhang.gatsbyjs.io/</a>.
+  The first iteration of <a href="https://xiyue-jasmine-zhang.netlify.app/" target="_blank">hhttps://xiyue-jasmine-zhang.netlify.app/</a>.
 </p>
 
 ![demo](https://raw.githubusercontent.com/JasmineZhangxyz/website-v1/main/src/images/demo.png)
