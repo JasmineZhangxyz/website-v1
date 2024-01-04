@@ -1,5 +1,5 @@
 ---
-date: '2023-08-01'
+date: '2023-09-01'
 title: 'Software Developer Intern at IBM'
 github: ''
 external: 'https://www.ibm.com/products/app-discovery-and-delivery-intelligence'

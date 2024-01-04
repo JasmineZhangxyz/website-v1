@@ -7,7 +7,7 @@ tech:
   - Python
   - Pytorch
   - Tensorflow
-company: 'UofT'
+company: 'UofT CSC2559'
 showInProjects: true
 ---
 
