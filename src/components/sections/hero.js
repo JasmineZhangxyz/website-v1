@@ -61,7 +61,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h3 className="big-heading">Xiyue Zhang.</h3>;
+  const two = <h3 className="big-heading">Xiyue (Jasmine) Zhang.</h3>;
   const three = (
     <>
       <p>
@@ -73,7 +73,7 @@ const Hero = () => {
   const four = (
     <a
       className="resume-link"
-      href="https://drive.google.com/file/d/1RR9Xy0TgFxmdRdrhhMrAQWSQiltf5Lwg/view?usp=sharing"
+      href="https://drive.google.com/file/d/1wrH7qlJVDXZfZg8p0afItBV4NxDmYuZl/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
       Resume
