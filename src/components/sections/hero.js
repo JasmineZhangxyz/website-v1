@@ -61,11 +61,11 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h3 className="big-heading">Xiyue (Jasmine) Zhang.</h3>;
+  const two = <h3 className="big-heading">Jasmine Zhang.</h3>;
   const three = (
     <>
       <p>
-        I'm a software developer with over 2 years of industry experience specializing in machine learning and web development.
+        I'm a software developer with 2+ years of industry experience specializing in machine learning and web development.
       </p>
     </>
   );
