@@ -78,13 +78,13 @@ const About = () => {
 
     const skills = [
         'Python',
-        'Pytorch + Tensorflow',
-        'C',
         'SQL',
-        'React',
-        'Swift',
-        'TypeScript',
-        'HTML + CSS',
+        'Machine Learning (Pytorch + Tensorflow)',
+        'TypeScript + Javascript',
+        'React + Angular',
+        'Flask + Django',
+        'C',
+        'Git',
     ];
 
     return (
@@ -95,13 +95,15 @@ const About = () => {
                 <StyledText>
                     <div>
                         <p>
-                            Hi! My name is Xiyue, but I also go by Jasmine. I'm a software developer with a focus in ML. 
-                            I’m in my 4th year of Engineering Science - Machine Intelligence, 
-                            returning from a year-long co-op placement at IBM as a SWE intern.
+                            Hi! My name is Xiyue, but I also go by Jasmine. 
+                            I'm a software developer specializing in machine learning and web development. 
+                            Currently, I'm working at Canonical, the company behind Ubuntu.
+                            Previously, I completed a year-long co-op at IBM as a Software Developer Intern.
+                            I graduated from University of Toronto with a degree in Engineering Science - Machine Intelligence.
                         </p>
 
                         <p>
-                            I am actively looking for new grad or early career opportunities.
+                            I am actively looking for early career opportunities.
                         </p>
 
                         <p>Here are a few technologies I’ve worked with:</p>
@@ -140,7 +142,7 @@ const About = () => {
                         </p>
 
                         <p>
-                            Outside of coding, I spend my time practicing singing, acting, and pilates.
+                            Outside of coding, I spend my time practicing pilates and knitting while listening to audiobooks.
                         </p>
                     </div>
                 </StyledText>

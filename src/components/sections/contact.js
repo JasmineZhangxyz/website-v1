@@ -58,8 +58,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        My graduation is set for June 2024 and I am actively looking for new grad or early
-        career software development opportunities!
+        I am actively looking for early career software development opportunities!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

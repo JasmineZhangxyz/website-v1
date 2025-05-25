@@ -1,30 +1,30 @@
 var plugins = [{
       name: 'gatsby-plugin-react-helmet',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-styled-components',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false,"disableVendorPrefixes":false},
     },{
       name: 'gatsby-plugin-image',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-image/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-image/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-sitemap',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Jasmine Zhang","short_name":"Jasmine Zhang","start_url":"/","background_color":"#171c28","theme_color":"#2f3b54","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"56c02f3b765da93df63336ed5b909dc1"},
     },{
       name: 'gatsby-plugin-offline',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-google-analytics',
-      plugin: require('/Users/jasminezhang/Desktop/code/website-v1-1/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/jasminezhang/Desktop/Desktop - Jasmine’s MacBook Pro/Coding Projects/website-v1/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-45666519-2","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
     }]
 /* global plugins */

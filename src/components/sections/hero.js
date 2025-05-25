@@ -65,15 +65,14 @@ const Hero = () => {
   const three = (
     <>
       <p>
-        I’m a software developer with a focus in ML. Currently, I’m in my 4th
-        year at University of Toronto studying Engineering Science - Machine Intelligence.
+        I'm a software developer with over 2 years of industry experience specializing in machine learning and web development.
       </p>
     </>
   );
   const four = (
     <a
       className="resume-link"
-      href="https://drive.google.com/file/d/1wrH7qlJVDXZfZg8p0afItBV4NxDmYuZl/view?usp=sharing"
+      href="https://drive.google.com/file/d/1jfF3lbjyRv3dEdPkFrXm1zxcM8XFrQwc/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
       Resume
